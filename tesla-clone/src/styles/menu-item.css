@@ -1,0 +1,17 @@
+
+.menuItem{
+    border-bottom: 1px solid #777;
+    text-align: left;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+.menuItem h4{
+    font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    font-size: 15px;
+    padding-left: 10px;
+    cursor: pointer;
+    
+}
